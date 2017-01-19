@@ -1,5 +1,5 @@
 # Tchatto
-Application WEB de tchat entre amis et groupe d'amis (JSP + Servlet + JAVA)
+Application de tchat entre amis et groupe d'amis (avec un noyau de generation dynamique de nouveau groupes si non existant) (JSP + Servlet + JAVA)
 
 Tres simple a mettre en oeuvre et aussi tres utile:
 <br>
